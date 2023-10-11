@@ -5,6 +5,11 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFIntro_0", "EFIntro_0\EFIntro_0.csproj", "{465F68A6-7876-4A0F-81ED-818D4F6DF1A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{233315D6-55BE-4334-BD97-FC234B9E7128}"
+	ProjectSection(SolutionItems) = preProject
+		Odev.txt = Odev.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
